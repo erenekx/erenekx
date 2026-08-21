@@ -48,8 +48,8 @@ Here are some of the exciting projects I've been working on:
 ## 💼 Industrial Experience
 
 > **Data Engineer & Data Analyst** (Current) 🏢
-* Developing and maintaining data analytics pipelines, managing database logs, and building robust API endpoints.
-* Executed a major data pipeline overhaul for Maptriks and Predictive Order, focusing on tabular business sales records and threshold optimization.
+* Designed, developed, and maintained data analytics pipelines, while managing database logs and building robust API endpoints.
+* Led a major data pipeline overhaul for predictive analytics tools, optimizing tabular business sales records and threshold performance.
 
 > **Machine Learning & AI Intern** 🏢
 * Developed, fine-tuned, and deployed Large Language Models (LLMs) and predictive machine learning models.
